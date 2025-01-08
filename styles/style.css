@@ -242,7 +242,7 @@ body {
   text-transform: uppercase;
  }
 
- .about__text-items { 
+ .about__text-items {
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;
@@ -284,7 +284,8 @@ body {
   display: flex;
   flex-direction: row-reverse;
   gap: 48px; 
-}
+
+ }
 
 .footer__social-icon {
   width: 48px;
