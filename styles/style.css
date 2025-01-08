@@ -1,3 +1,10 @@
+body {
+	font-family: "Raleway", serif;   
+	width: 1100px;
+	margin: 0 auto;
+  	padding: 0;
+}
+
 *.header {
 	Width:1100px;
 	Height:293px;
