@@ -76,7 +76,7 @@
     letter-spacing: 30px;
   }
 
-  .aligned-text_center { 
+  .aligned-text_center {
     text-align: center;
     line-height: 115px;
     padding-left:30px;
@@ -135,7 +135,7 @@
   margin-right: 25px;
 }
 
-.card{
+.card {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -251,7 +251,7 @@
   padding: 180px 50px 82px;
  }
 
- .address_footer{
+ .address_footer {
   padding-left: 1px;
   text-align: start;
   font-size: 18px;
@@ -261,26 +261,25 @@
 
  }
 
- .footer__menu{
-  
+ .footer__menu {
   font-size: 18px;
   font-weight: 400;
   line-height: 21.13px;
   text-align: center;
  }
 
- .footer__menu-list-item{
+ .footer__menu-list-item {
   text-decoration-line: underline;
   text-underline-offset: 4px;
  }
 
- .footer__social-list{
+ .footer__social-list {
   display: flex;
   flex-direction: row-reverse;
   gap: 48px; 
 }
 
-.footer__social-icon{
+.footer__social-icon {
   width: 48px;
   height: 48px;
 }
