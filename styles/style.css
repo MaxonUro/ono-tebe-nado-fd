@@ -8,8 +8,8 @@ body {
 
 .header {
 	Width:1100px;
-	padding-bottom: 94px;
-	padding-top:94px;
+	padding-bottom: 92px;
+	padding-top:92px;
 	display: grid;
 	grid-template-columns: 1fr min-content 1fr;
 	align-items:center;
@@ -24,6 +24,11 @@ body {
   .header__links-list {
 	display:flex;
 	gap:32px;
+  }
+
+  .decoration{
+    	text-decoration: none;
+   	 color: #000;
   }
 
   .header__links-list-item {
