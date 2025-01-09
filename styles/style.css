@@ -9,6 +9,7 @@ body {
 .header {
 	Width:1100px;
 	padding-bottom: 94px;
+	padding-top:94px;
 	display: grid;
 	grid-template-columns: 1fr min-content 1fr;
 	align-items:center;
@@ -151,7 +152,7 @@ body {
   	gap:30px;
   	position: relative;
   	max-width: 334px;
-  	height: 596px ;
+  	min-height: 596px ;
 }
 
 .card_type_film {
@@ -191,7 +192,6 @@ body {
   	padding-top: 48px;
   	padding-left: 40px;
   	padding-right: 40px;
-  
 }
 
 .card__text {
@@ -266,8 +266,6 @@ body {
   	font-size: 18px;
   	font-weight: 400;
   	line-height: 24.3px;
-
-
  }
 
  .footer__menu {
